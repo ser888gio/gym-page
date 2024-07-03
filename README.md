@@ -24,3 +24,7 @@ Additional Notes
     This is a basic setup and can be extended to include features like user authentication, membership plans, and online booking functionality.
     Tailwind CSS configuration can be found in the tailwind.config.js file.
     TypeScript configuration is located in the tsconfig.json file.
+    
+![obrazek](https://github.com/ser888gio/gym-page/assets/104572860/005e1577-09f4-4283-b383-bb8887b36bff)
+
+
