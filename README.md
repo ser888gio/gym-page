@@ -1,8 +1,26 @@
-# gym-typescript
+Gym Website - React, TypeScript & Tailwind CSS
 
-Build a Complete Typescript React Fitness Application for Beginners
+This project is a simple gym website built with React, TypeScript, and Tailwind CSS.
+Tech Stack
 
-Video: https://www.youtube.com/watch?v=I2NNxr3WPDo
+    Frontend:
+        React
+        TypeScript
+        Tailwind CSS
 
-For all related questions and discussions about this project, check out the discord:
-https://discord.gg/2FfPeEk2mX
+Use code with caution.
+
+    This will start the development server and open the application in your default browser at http://localhost:3000 (or a different port if specified).
+
+Features (This is just a basic example, feel free to expand)
+
+    Homepage: A landing page showcasing the gym's facilities, classes, and trainers.
+    Classes: A page displaying available classes with descriptions and scheduling options.
+    About Us: A page detailing the gym's mission, staff, and unique offerings.
+    Contact: A form for visitors to get in touch with the gym.
+
+Additional Notes
+
+    This is a basic setup and can be extended to include features like user authentication, membership plans, and online booking functionality.
+    Tailwind CSS configuration can be found in the tailwind.config.js file.
+    TypeScript configuration is located in the tsconfig.json file.
